@@ -1,0 +1,15 @@
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\Zadacha19.csproj.AssemblyReference.cache
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\Zadacha19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\Zadacha19.AssemblyInfoInputs.cache
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\Zadacha19.AssemblyInfo.cs
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\Zadacha19.csproj.CoreCompileInputs.cache
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\bin\Debug\net7.0\Zadacha19.exe
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\bin\Debug\net7.0\Zadacha19.deps.json
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\bin\Debug\net7.0\Zadacha19.runtimeconfig.json
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\bin\Debug\net7.0\Zadacha19.dll
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\bin\Debug\net7.0\Zadacha19.pdb
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\Zadacha19.dll
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\refint\Zadacha19.dll
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\Zadacha19.pdb
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\Zadacha19.genruntimeconfig.cache
+C:\Users\bubli\OneDrive\Рабочий стол\Домашка3\Zadacha19\obj\Debug\net7.0\ref\Zadacha19.dll
